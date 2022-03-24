@@ -26,4 +26,4 @@ The above R & D outcoming is only used for the purpose of enterprise self-use, s
 
 以上所从事的研发成果都是仅仅用于企业自用的目的，才能通过各项政策（高科技企业板块上市融资、税收返还、政府补贴等）取得丰厚的经济回报，不能是用于转让交易给第三方的目的。如果是转让交易的目的，高科技企业从事的知识产权投资很可能会被贱价处理。比如我曾经看到了金利手机在破产清算时拍卖专利权流拍的新闻；比如我的科研论文就是如此，我自己创作的科普论文，如果转让给其它期刊社或者是商业发行，也很可能收入卑微（此时的收入可能是工资或是版权交易收入）。但是如果自己投资制作网站并且全球推广，仅仅用于自己企业自用，那么价值可能远远高于工资或是版权交易收入。
 
-All Copyrights Reserved. Coping and Transferring is forbidden. 
+@All Copyrights Reserved. Coping and Transferring is forbidden. 
