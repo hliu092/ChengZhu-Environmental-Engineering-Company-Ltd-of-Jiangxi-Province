@@ -1,4 +1,4 @@
-# Intellectual-Property-Investment-and-Evaluation
+# 江西省诚筑环保工程有限公司/ChengZhu Environmental Engineering Company Ltd of Jiangxi Province 
 Operating Research &amp; Development Center
 
 ChengZhu Environmental Engineering Company Ltd of Jiangxi Province was incorporated in April 2015 in Mainland China, with Registration NO.91360700343188092B; Professional Qualifications --- Environmental Protection Engineer; 江西省诚筑环保工程有限公司创办于2015年4月， 中国大陆。统一社会信用代码91360700343188092B；专业技术资格 --- 环境保护专业工程师；
